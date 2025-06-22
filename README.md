@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer
 -----------------
 
-Hey there! I'm a Software Developer with over 4 years of experience diving into all sorts of tech adventures. I've explored a wide range of fields, tried my hand at different tools, and had a lot of fun along the way. These days, I'm working as a Senior Backend Engineer at Mopeth System Corp in Canada. Oh, and my friends call me Xorbious—feel free to do the same! I have a solid background in the JavaScript ecosystem and love creating impactful solutions. Lately, I’ve been really excited about diving into the blockchain space—it's such an intriguing and fast-evolving field, and I can’t wait to be part of it. Let’s make something awesome together! 🚀
+Hey there! I'm a Software Developer with over 4+ years of experience diving into all sorts of tech adventures. I've explored a wide range of fields, tried my hand at different tools, and had a lot of fun along the way. These days, I'm working as a Senior Backend Engineer at Mopeth System Corp in Canada. Oh, and my friends call me Xorbious—feel free to do the same! I have a solid background in the JavaScript ecosystem and love creating impactful solutions. Lately, I’ve been really excited about diving into the blockchain space—it's such an intriguing and fast-evolving field, and I can’t wait to be part of it. Let’s make something awesome together! 🚀
 
 * 🌍  I'm based in Lagos, Nigeria
 * 🖥️  See my portfolio at [xorbious.com](http://xorbious.com)
